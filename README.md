@@ -1,0 +1,3 @@
+# Franctal-Antenna-Design
+My Cst design pattern and results...
+I have learned and designed antenna that frequency in desired intervel.
